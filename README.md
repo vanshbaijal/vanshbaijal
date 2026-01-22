@@ -1,9 +1,9 @@
 <h1 align="center">Hi There 👋, I'm Vansh Baijal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 Graduate Engineer Trainee at **HCLTech**
 
-- 📫 How to reach me **vansh.baijal2010@gmail.com**
+- 📫 How to reach me **vanshbaijal.work@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1bB8eSdUz2yxHdWBgBXjTLykrKT8d107F/view?usp=drive_link](https://drive.google.com/file/d/1bB8eSdUz2yxHdWBgBXjTLykrKT8d107F/view?usp=drive_link)
 
