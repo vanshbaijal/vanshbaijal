@@ -1,5 +1,4 @@
 <h1 align="center">Hi There 👋, I'm Vansh Baijal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 Graduate Engineer Trainee at **HCLTech**
 
